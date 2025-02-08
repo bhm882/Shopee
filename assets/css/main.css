@@ -6,7 +6,7 @@
 .header__navbar{
     display: flex;
     justify-content: space-between;
-    margin: 12px 34px;
+    margin: 0px 34px;
 
 }
 .header__navbar-list{
